@@ -1,0 +1,19 @@
+node_modules/
+public/
+prof/
+tsconfig.tsbuildinfo
+.quartz-cache/
+.DS_Store
+*.local
+
+# Obsidian 的设备状态不发布；插件和主题配置可按需提交。
+content/.obsidian/workspace.json
+content/.obsidian/workspace-mobile.json
+
+# 仅供本地写作/自动化使用，不公开到仓库。
+content/CLAUDE.md
+content/NOTE_TEMPLATE.md
+content/notes/_STYLE.md
+
+# 本地课程原始镜像约 300 MB，不属于公开笔记站。
+content/9.00sc-fall-2011/
